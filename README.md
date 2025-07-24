@@ -33,7 +33,12 @@ ThriveConnect is a concept for a digital platform aimed at empowering youth to m
 🌐 Presented at ASAP Idea Fest – Nov 2024
 
 ---
+## 📎 Idea Pitch Deck
 
+The full idea presentation is available here:  
+👉 [Download ThriveConnect Idea Pitch](https://raw.githubusercontent.com/alviraruchbah/thriveconnect-mental-health/main/ASAP%20IDEA%20FEST-%20NOV%20EDITION_Serenity%20Squads_Round%202%20(2).pptx)
+
+---
 
 ## 📌 Status
 
